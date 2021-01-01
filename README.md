@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Applications
+- 🔭 I’m currently working on: Android Applications
 - 🌱 I’m currently learning: PPC
 - 👯 I’m looking to collaborate on: Nothing Yet
 - 💬 Ask me about: IT / CyberSecurity / Networking
